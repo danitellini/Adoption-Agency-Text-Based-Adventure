@@ -1,1 +1,3 @@
-Done prior to connecting git bash to github
+# Adoption Agency
+A text-based adventure
+
